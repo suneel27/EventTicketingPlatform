@@ -1,1 +1,1 @@
-#Project
+Event Ticketing Platform
